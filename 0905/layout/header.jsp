@@ -8,14 +8,8 @@
 <link rel="stylesheet" href="../css/style.css?ver1.1.1">
 </head>
 <body>
-<main id="nav">
-	<ul>
-		<li><a href="#">회원등록</a></li>
-		<li><a href="#">외원목록조회/수정</a></li>
-		<li><a href="#">회원매출조회</a></li>
-		<li><a href="#">홈으로</a></li>
-		<li><a href="#">회원정보조회</a></li>
-	</ul>
+<main id="header">
+	<h1>쇼핑몰 회원관리 ver1.0</h1>
 </main>
 </body>
 </html>
