@@ -4,21 +4,22 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
-<link rel="stylesheet" href="css/style.css?333">
+<title>메인페이지(Index.jsp)</title>
+<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-<header>
-<jsp:include page="layout/header.jsp"></jsp:include>
-</header>
-<nav>
-<jsp:include page="layout/nav.jsp"></jsp:include>
-</nav>
-<section>
-<jsp:include page="layout/section.jsp"></jsp:include>
-</section>
-<footer>
-<jsp:include page="layout/footer.jsp"></jsp:include>
-</footer>
+	<jsp:include page="layout/header.html"></jsp:include>
+	<jsp:include page="layout/nav.html"></jsp:include>
+	
+	<section>
+	
+	</section>
+	
+	<jsp:include page="layout/footer.html"></jsp:include>
 </body>
 </html>
+
+
+
+
+
